@@ -1,0 +1,113 @@
+body{
+    font-family: "Montserrat";
+    text-align: center;
+}
+
+#title{
+    background-image: url(img/bg-mage.jpg);
+    color:#fff;
+    text-align: left;
+    padding-top: 65px;
+    padding-bottom: 195px;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Montserrat-Bold";
+}
+
+p{
+    color: #8f8f8f;
+    font: weight 100px;
+}
+.section-heading{
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.big-heading{
+    font-family: "Montserrat-Bold";
+    font-size: 3rem;
+    line-height:1.5;
+    /* font-weight:bold;    */
+}
+
+.container-fluid{
+    padding:7% 15%;
+}
+
+.navbar{
+    padding:0 0 10.5rem ;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size:4rem;
+    font-weight:bold;
+}
+.nav-item {
+    padding: 0 20px;
+    
+}
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Montserrat";
+}
+
+/* download buttons */
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.feature-title{
+    font-size: 1.5rem;
+}
+#features{
+    background-color:#fff;
+    position: relative;
+    
+}
+.feature-box{
+    
+    padding:5%;
+}
+.icon{
+    color:#ef8172;
+    margin-bottom:1rem;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+
+/* Testimonials */
+#testimonials{
+    background-color:#FFD39A;
+    color:#319DA0;
+}
+.testimonial-image{
+    width:10%;
+    border-radius:100%;
+    margin: 20px;
+}
+.testimonial-text{
+    font-size:3rem;
+    line-height:1.5;
+}
+
+/* Pricing section */
+#pricing{
+    padding:100px;
+}
+
+.pricing-column{
+    padding:3% 2%;
+}
+.price-text{
+    font-size:3rem;
+    line-height:1.5;
+}
+
+.social-icon{
+    margin: 20px 10px;
+    height: 24px;
+}
+#foot{
+    background-color: #304146;
+}
